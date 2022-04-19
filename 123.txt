@@ -13,3 +13,4 @@ hello world
 hello world
 hello world
 我在外部的团队里，想来修改你的信息
+我在gitub上进行了修改,想同步到gitee上面
